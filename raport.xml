@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Prajituri xmlns="https://prajituri.com/Deliciu">
+    <Prajitura Cofetarie="Deliciu" Denumire="Amandina">
+        <Pret>10.0</Pret>
+        <Disponibilitate>pe stoc</Disponibilitate>
+        <Valabilitate>3 zile</Valabilitate>
+    </Prajitura>
+    <Prajitura Cofetarie="Deliciu" Denumire="Tarta cu fructe">
+        <Pret>7.0</Pret>
+        <Disponibilitate>pe stoc</Disponibilitate>
+        <Valabilitate>1 zi</Valabilitate>
+    </Prajitura>
+    <Prajitura Cofetarie="Deliciu" Denumire="Ecler cu cacao">
+        <Pret>5.0</Pret>
+        <Disponibilitate>pe stoc</Disponibilitate>
+        <Valabilitate>3 zile</Valabilitate>
+    </Prajitura>
+    <Prajitura Cofetarie="Deliciu" Denumire="Rulada diplomat">
+        <Pret>6.0</Pret>
+        <Disponibilitate>pe stoc</Disponibilitate>
+        <Valabilitate>4 zile</Valabilitate>
+    </Prajitura>
+    <Prajitura Cofetarie="Deliciu" Denumire="Prajitura casei">
+        <Pret>12.5</Pret>
+        <Disponibilitate>pe stoc</Disponibilitate>
+        <Valabilitate>3 zile</Valabilitate>
+    </Prajitura>
+    <Prajitura Cofetarie="Deliciu" Denumire="Tiramisu">
+        <Pret>10.0</Pret>
+        <Disponibilitate>pe stoc</Disponibilitate>
+        <Valabilitate>5 zile</Valabilitate>
+    </Prajitura>
+    <Prajitura Cofetarie="Deliciu" Denumire="Cremsnit">
+        <Pret>6.0</Pret>
+        <Disponibilitate>pe stoc</Disponibilitate>
+        <Valabilitate>2 zile</Valabilitate>
+    </Prajitura>
+</Prajituri>
