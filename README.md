@@ -1,5 +1,5 @@
 # client-server-app
-Bakery Chain Shop Management
+# Bakery Chain Shop Management
 For this app I use:
 - SQLite for store data about the employees and cakes
 - Sockets for communication between server and client
